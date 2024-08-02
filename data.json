@@ -153,7 +153,7 @@
             "gender": "Mujer",
             "sport": "Tennis",
             "inStock": true,
-            "imageUrl": "https://res.cloudinary.com/dbkg9dzwt/image/upload/v1722457833/17_nibgph.jpg",
+            "image": "https://res.cloudinary.com/dbkg9dzwt/image/upload/v1722457833/17_nibgph.jpg",
             "description": "Vestibulum sed tortor sit amet odio sodales ultricies. Etiam tincidunt, justo ut molestie consequat, sapien lacus molestie arcu, laoreet consequat nisl nisi eget est. Cras ut libero gravida, elementum nisl nec, sagittis nisl. Etiam pulvinar, nibh id pretium facilisis, odio dolor hendrerit dui, condimentum tincidunt leo ligula bibendum justo. Cras iaculis hendrerit odio, sed dapibus odio semper id. Ut condimentum eros aliquet ligula bibendum volutpat."
         },
         {
@@ -165,7 +165,7 @@
             "gender": "Hombre",
             "sport": "Tennis",
             "inStock": true,
-            "imageUrl": "https://res.cloudinary.com/dbkg9dzwt/image/upload/v1722457833/18_nbe3k0.jpg",
+            "image": "https://res.cloudinary.com/dbkg9dzwt/image/upload/v1722457833/18_nbe3k0.jpg",
             "description": "Vestibulum sed tortor sit amet odio sodales ultricies. Etiam tincidunt, justo ut molestie consequat, sapien lacus molestie arcu, laoreet consequat nisl nisi eget est. Cras ut libero gravida, elementum nisl nec, sagittis nisl. Etiam pulvinar, nibh id pretium facilisis, odio dolor hendrerit dui, condimentum tincidunt leo ligula bibendum justo. Cras iaculis hendrerit odio, sed dapibus odio semper id. Ut condimentum eros aliquet ligula bibendum volutpat."
         },
         {
@@ -177,7 +177,7 @@
             "gender": "Hombre",
             "sport": "Trekking",
             "inStock": true,
-            "imageUrl": "https://res.cloudinary.com/dbkg9dzwt/image/upload/v1722457834/19_cucm8g.jpg",
+            "image": "https://res.cloudinary.com/dbkg9dzwt/image/upload/v1722457834/19_cucm8g.jpg",
             "description": "Vestibulum sed tortor sit amet odio sodales ultricies. Etiam tincidunt, justo ut molestie consequat, sapien lacus molestie arcu, laoreet consequat nisl nisi eget est. Cras ut libero gravida, elementum nisl nec, sagittis nisl. Etiam pulvinar, nibh id pretium facilisis, odio dolor hendrerit dui, condimentum tincidunt leo ligula bibendum justo. Cras iaculis hendrerit odio, sed dapibus odio semper id. Ut condimentum eros aliquet ligula bibendum volutpat."
         },
         {
@@ -189,7 +189,7 @@
             "gender": "Hombre",
             "sport": "Running",
             "inStock": true,
-            "imageUrl": "https://res.cloudinary.com/dbkg9dzwt/image/upload/v1722457834/20_mfglae.jpg",
+            "image": "https://res.cloudinary.com/dbkg9dzwt/image/upload/v1722457834/20_mfglae.jpg",
             "description": "Vestibulum sed tortor sit amet odio sodales ultricies. Etiam tincidunt, justo ut molestie consequat, sapien lacus molestie arcu, laoreet consequat nisl nisi eget est. Cras ut libero gravida, elementum nisl nec, sagittis nisl. Etiam pulvinar, nibh id pretium facilisis, odio dolor hendrerit dui, condimentum tincidunt leo ligula bibendum justo. Cras iaculis hendrerit odio, sed dapibus odio semper id. Ut condimentum eros aliquet ligula bibendum volutpat."
         },
         {
@@ -201,7 +201,7 @@
             "gender": "Hombre",
             "sport": "Football",
             "inStock": true,
-            "imageUrl": "https://res.cloudinary.com/dbkg9dzwt/image/upload/v1722457834/21_ep7l2b.jpg",
+            "image": "https://res.cloudinary.com/dbkg9dzwt/image/upload/v1722457834/21_ep7l2b.jpg",
             "description": "Vestibulum sed tortor sit amet odio sodales ultricies. Etiam tincidunt, justo ut molestie consequat, sapien lacus molestie arcu, laoreet consequat nisl nisi eget est. Cras ut libero gravida, elementum nisl nec, sagittis nisl. Etiam pulvinar, nibh id pretium facilisis, odio dolor hendrerit dui, condimentum tincidunt leo ligula bibendum justo. Cras iaculis hendrerit odio, sed dapibus odio semper id. Ut condimentum eros aliquet ligula bibendum volutpat."
         },
         {
@@ -213,7 +213,7 @@
             "gender": "Hombre",
             "sport": "Football",
             "inStock": true,
-            "imageUrl": "https://res.cloudinary.com/dbkg9dzwt/image/upload/v1722457835/22_eqsy1q.jpg",
+            "image": "https://res.cloudinary.com/dbkg9dzwt/image/upload/v1722457835/22_eqsy1q.jpg",
             "description": "Vestibulum sed tortor sit amet odio sodales ultricies. Etiam tincidunt, justo ut molestie consequat, sapien lacus molestie arcu, laoreet consequat nisl nisi eget est. Cras ut libero gravida, elementum nisl nec, sagittis nisl. Etiam pulvinar, nibh id pretium facilisis, odio dolor hendrerit dui, condimentum tincidunt leo ligula bibendum justo. Cras iaculis hendrerit odio, sed dapibus odio semper id. Ut condimentum eros aliquet ligula bibendum volutpat."
         },
         {
@@ -225,7 +225,7 @@
             "gender": "Unisex",
             "sport": "Trekking",
             "inStock": true,
-            "imageUrl": "https://res.cloudinary.com/dbkg9dzwt/image/upload/v1722457836/23_lvwilp.jpg",
+            "image": "https://res.cloudinary.com/dbkg9dzwt/image/upload/v1722457836/23_lvwilp.jpg",
             "description": "Vestibulum sed tortor sit amet odio sodales ultricies. Etiam tincidunt, justo ut molestie consequat, sapien lacus molestie arcu, laoreet consequat nisl nisi eget est. Cras ut libero gravida, elementum nisl nec, sagittis nisl. Etiam pulvinar, nibh id pretium facilisis, odio dolor hendrerit dui, condimentum tincidunt leo ligula bibendum justo. Cras iaculis hendrerit odio, sed dapibus odio semper id. Ut condimentum eros aliquet ligula bibendum volutpat."
         },
         {
@@ -237,7 +237,7 @@
             "gender": "Unisex",
             "sport": "Trekking",
             "inStock": true,
-            "imageUrl": "https://res.cloudinary.com/dbkg9dzwt/image/upload/v1722457836/24_owysto.jpg",
+            "image": "https://res.cloudinary.com/dbkg9dzwt/image/upload/v1722457836/24_owysto.jpg",
             "description": "Vestibulum sed tortor sit amet odio sodales ultricies. Etiam tincidunt, justo ut molestie consequat, sapien lacus molestie arcu, laoreet consequat nisl nisi eget est. Cras ut libero gravida, elementum nisl nec, sagittis nisl. Etiam pulvinar, nibh id pretium facilisis, odio dolor hendrerit dui, condimentum tincidunt leo ligula bibendum justo. Cras iaculis hendrerit odio, sed dapibus odio semper id. Ut condimentum eros aliquet ligula bibendum volutpat."
         },
         {
@@ -249,7 +249,7 @@
             "gender": "Unisex",
             "sport": "Trekking",
             "inStock": true,
-            "imageUrl": "https://res.cloudinary.com/dbkg9dzwt/image/upload/v1722457836/25_tnwkgw.jpg",
+            "image": "https://res.cloudinary.com/dbkg9dzwt/image/upload/v1722457836/25_tnwkgw.jpg",
             "description": "Vestibulum sed tortor sit amet odio sodales ultricies. Etiam tincidunt, justo ut molestie consequat, sapien lacus molestie arcu, laoreet consequat nisl nisi eget est. Cras ut libero gravida, elementum nisl nec, sagittis nisl. Etiam pulvinar, nibh id pretium facilisis, odio dolor hendrerit dui, condimentum tincidunt leo ligula bibendum justo. Cras iaculis hendrerit odio, sed dapibus odio semper id. Ut condimentum eros aliquet ligula bibendum volutpat."
         },
         {
