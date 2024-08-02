@@ -4,10 +4,14 @@ const fs = require('fs');
 const path = require('path');
 const Item = require('./models/modelSneaker');
 const Sneaker = require('./models/modelSneaker');
+const cors = require("cors")
+
+
 
 const app = express();
-const port = process.env.PORT || 3000;
 
+const port = process.env.PORT || 4000; // Cambia aquí el puerto
+app.use(cors())
 app.use(bodyParser.json());
 
 const filePath = path.join(__dirname, 'data.json');
