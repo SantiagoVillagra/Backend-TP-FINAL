@@ -11,6 +11,18 @@
         "stock": true,
         "image": "https://res.cloudinary.com/dbkg9dzwt/image/upload/v1722457827/1_esksyk.jpg",
         "description": "Vestibulum sed tortor sit amet odio sodales ultricies. Etiam tincidunt, justo ut molestie consequat, sapien lacus molestie arcu, laoreet consequat nisl nisi eget est. Cras ut libero gravida, elementum nisl nec, sagittis nisl. Etiam pulvinar, nibh id pretium facilisis, odio dolor hendrerit dui, condimentum tincidunt leo ligula bibendum justo. Cras iaculis hendrerit odio, sed dapibus odio semper id. Ut condimentum eros aliquet ligula bibendum volutpat."
+        },
+        {
+            "ID": 2,
+            "name": "Buzzer",
+            "brand": "Under Armor",
+            "size": [42, 43, 44],
+            "price": 140000,
+            "gender": "Hombre",
+            "sport": "Basketball",
+            "stock": true,
+            "image": "https://res.cloudinary.com/dbkg9dzwt/image/upload/v1722457827/2_pgnji8.jpg",
+            "description": "Vestibulum sed tortor sit amet odio sodales ultricies. Etiam tincidunt, justo ut molestie consequat, sapien lacus molestie arcu, laoreet consequat nisl nisi eget est. Cras ut libero gravida, elementum nisl nec, sagittis nisl. Etiam pulvinar, nibh id pretium facilisis, odio dolor hendrerit dui, condimentum tincidunt leo ligula bibendum justo. Cras iaculis hendrerit odio, sed dapibus odio semper id. Ut condimentum eros aliquet ligula bibendum volutpat."
         }
     ]
 }
