@@ -4,15 +4,9 @@ const fs = require('fs');
 const path = require('path');
 const Item = require('./models/modelSneaker');
 const Sneaker = require('./models/modelSneaker');
-const cors = require('cors');
+
 const app = express();
 const port = process.env.PORT || 3000;
-
-
-
-
-
-app.use(cors())
 
 app.use(bodyParser.json());
 
